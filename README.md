@@ -4,7 +4,7 @@ This project implements and compares multiple transformer-based models for extra
 
 ## Kaggle Notebook
 
-[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-orange.svg)](https://www.kaggle.com/your-notebook-link)
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-orange.svg)](https://www.kaggle.com/code/yusrashereen/qnas-1-1)
 
 The full training run is available in this Kaggle notebook.  
 Model weights and generated artifacts can be found in the notebook’s **Output** tab.

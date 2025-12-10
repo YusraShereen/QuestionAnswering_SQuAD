@@ -2,6 +2,14 @@
 
 This project implements and compares multiple transformer-based models for extractive question answering using the Stanford Question Answering Dataset (SQuAD v1.1).
 
+## Kaggle Notebook
+
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-orange.svg)](https://www.kaggle.com/your-notebook-link)
+
+The full training run is available in this Kaggle notebook.  
+Model weights and generated artifacts can be found in the notebook’s **Output** tab.
+
+
 ## Project Overview
 
 The system trains and evaluates five different transformer architectures:
